@@ -1,3 +1,5 @@
+## Sales Dashboard
+
 Project Overview:
 This project is a Sales Analytics Dashboard built using Power BI.
 It helps analyze sales performance, profit trends, and customer segments to support data-driven decision making.
